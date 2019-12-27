@@ -39,7 +39,7 @@ from custom_components.docker_monitor import (
     UTILISATION_MONITOR_VERSION
 )
 
-VERSION = '0.0.3'
+VERSION = '0.0.4'
 
 DEPENDENCIES = ['docker_monitor']
 

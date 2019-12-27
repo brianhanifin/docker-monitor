@@ -1,7 +1,7 @@
 {
    "docker_monitor": {
       "updated_at": "2019-12-27",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "local_location": "/custom_components/docker_monitor/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/Sanderhuisman/docker-monitor/master/custom_components/docker_monitor/__init__.py",
       "changelog": "https://github.com/Sanderhuisman/docker-monitor/releases/latest",
@@ -9,7 +9,7 @@
    },
    "docker_monitor.sensor": {
       "updated_at": "2019-12-27",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "local_location": "/custom_components/docker_monitor/sensor.py",
       "remote_location": "https://raw.githubusercontent.com/Sanderhuisman/docker-monitor/master/custom_components/docker_monitor/sensor.py",
       "changelog": "https://github.com/Sanderhuisman/docker-monitor/releases/latest",
@@ -17,7 +17,7 @@
    },
    "docker_monitor.switch": {
       "updated_at": "2019-12-27",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "local_location": "/custom_components/docker_monitor/switch.py",
       "remote_location": "https://raw.githubusercontent.com/Sanderhuisman/docker-monitor/master/custom_components/docker_monitor/switch.py",
       "changelog": "https://github.com/Sanderhuisman/docker-monitor/releases/latest",
