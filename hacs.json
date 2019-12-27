@@ -1,0 +1,6 @@
+{
+  "name": "Docker Monitor",
+  "domains": ["sensor","switch"],
+  "iot_class": "local_poll",
+  "homeassistant": "0.88.0"
+}

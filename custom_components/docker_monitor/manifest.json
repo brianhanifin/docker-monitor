@@ -1,0 +1,8 @@
+{
+    "name": "Docker Monitor",
+    "domain": "docker_monitor",
+    "documentation": "https://github.com/Sanderhuisman/docker-monitor",
+    "dependencies": [],
+    "codeowners": ["@Sanderhuisman"],
+    "requirements": ["docker>=3.7.0", "python-dateutil>=2.7.5"]
+}
