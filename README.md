@@ -29,7 +29,7 @@ The event will contain the following data:
 [HACS](https://github.com/custom-components/hacs) is a custom integration that allows you to search for, discover, install, and manage custom additions to Home Assistant.
 
 1. In the HACS store select the **Settings** tab.
-2. Enter `Sanderhuisman/docker-monitor` in the **Add Custom Repository** box and select **Integration** from the **Category** list.
+2. Enter `brianhanifin/docker-monitor` in the **Add Custom Repository** box and select **Integration** from the **Category** list.
 3. On the **Integrations** tab search for "Docker Monitor" and follow the links to install.
 
 #### Configuration
